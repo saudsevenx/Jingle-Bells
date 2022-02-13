@@ -1,0 +1,39 @@
+body {
+  background-image: url('Background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.home-quote{
+  position: relative;
+  /* border: 5px solid whitesmoke;
+  border-radius: 10px; */
+  width: 500px;
+  padding: 10px;
+  top: 390px;
+  left: 60px;
+  font-size: 2rem;
+  font-family: 'Libre Baskerville', serif;
+  color: whitesmoke;
+
+}
+.book{
+  position: relative;
+  top: 200px;
+  left: 1200px;
+  color: whitesmoke;
+}
+
+.specs{
+  position: relative;
+  top: 240px;
+  left: 1200px;
+  color: whitesmoke;
+}
+.mug{
+  position: relative;
+  top: 240px;
+  left: 760px;
+  color: whitesmoke;
+}
